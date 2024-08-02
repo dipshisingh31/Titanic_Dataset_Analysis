@@ -32,18 +32,17 @@ Here is a quick snapshot of the data:
 
 ## 📊 Technical - SQL 
 
-1.	Survival Rates by Class, Gender, and Age
-           This query calculates the survival rate for each combination of passenger class and gender
+1. Survival Rates by Class, Gender, and Age - This query calculates the survival rate for each combination of passenger class and gender
+           ![Data Screenshot](SQL1_Survival_Rate_byclass.png)
   	
-2. Survival Rates by Family Size
-         This query groups passengers by whether they were traveling alone or with family, and calculates the survival rate for each group.
+2. Survival Rates by Family Size - This query groups passengers by whether they were traveling alone or with family, and calculates the survival rate for each group.
+           ![Data Screenshot](SQl2_Survival_Rate_byFamilySize.png)
 
-3. Survival Rates by Embarkation Port
-         calculates the survival rate for passengers based on their port of embarkation
+3. Survival Rates by Embarkation Port - Calculates the survival rate for passengers based on their port of embarkation
+           ![Data Screenshot](SQL3_Survival_Rate_byEmbarkationPort.png)
 
-4.  Feature Importance Analysis
-   This query calculates the correlation coefficients between the survival status and various passenger features, which can help identify the most important factors influencing survival
-
+4.  Feature Importance Analysis - This query calculates the correlation coefficients between the survival status and various passenger features, which can help identify the most important factors influencing survival
+           ![Data Screenshot](SQ4_Feature_Importance_Analysis.png)
 
 
 ### 💡 Data Visualization
@@ -71,7 +70,7 @@ The insights gained from this project can be used to better understand the histo
 
 
 
-SQL CODE: [Link](https://public.tableau.com/shared/8NG73Q2J7?:display_count=n&:origin=viz_share_link)
+SQL CODE: [Link](TITANIC dataset analysis.sql)
 
 
 
