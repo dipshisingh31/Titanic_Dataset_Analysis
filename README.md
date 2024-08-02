@@ -3,6 +3,8 @@
 ## Project Overview
 The Titanic dataset contains information about passengers on the ill-fated maiden voyage of the RMS Titanic, including details such as passenger class, gender, age, and survival status. In this project, we will analyze the dataset to gain insights into the factors that influenced the passengers' chances of survival.
 
+
+
 ## 📚 Dataset
 The Titanic dataset can be obtained from various sources, such as Kaggle or GitHub. The dataset typically includes the following columns:
 -	PassengerId: Unique identifier for each passenger
@@ -22,12 +24,16 @@ The Titanic dataset can be obtained from various sources, such as Kaggle or GitH
 Here is a quick snapshot of the data:
 ![Data Screenshot](Titanic_Dataset_Sample.JPG)
 
+
+
 ## ✏️ Project Objectives
 
 1.	Analyze the survival rates of passengers based on their class, gender, and age.
 2.	Investigate the relationship between the number of family members aboard and the chances of survival.
 3.	Determine if the passenger's embarkation port had any impact on their survival.
 4.	Identify the most important factors that influenced the passengers' chances of survival.
+
+
 
 
 ## 📊 Technical - SQL 
@@ -44,6 +50,8 @@ Here is a quick snapshot of the data:
 4.  Feature Importance Analysis - This query calculates the correlation coefficients between the survival status and various passenger features, which can help identify the most important factors influencing survival
            ![Data Screenshot](SQ4_Feature_Importance_Analysis.png)
 
+    
+
 
 ### 💡 Data Visualization
 
@@ -56,6 +64,8 @@ To complement the SQL queries, we can create the following data visualizations:
 -           Represent the survival rates for each embarkation port using a bar chart or a map visualization.
 4.	Feature Importance Analysis
 -           Visualize the correlation coefficients between the survival status and the various passenger features using a correlation matrix or a bar chart
+
+  
 
 
 ### 💡 Conclusion
