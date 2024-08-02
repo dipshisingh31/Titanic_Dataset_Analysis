@@ -1,4 +1,4 @@
-# Titanic_Dataset_Analysis
+# Titanic Dataset Analysis
 
 ## Project Overview
 The Titanic dataset contains information about passengers on the ill-fated maiden voyage of the RMS Titanic, including details such as passenger class, gender, age, and survival status. In this project, we will analyze the dataset to gain insights into the factors that influenced the passengers' chances of survival.
