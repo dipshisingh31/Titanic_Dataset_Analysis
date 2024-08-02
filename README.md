@@ -49,13 +49,13 @@ Here is a quick snapshot of the data:
 
 To complement the SQL queries, we can create the following data visualizations:
 1.	Survival Rates by Class, Gender, and Age
-•	Create a clustered bar chart or heatmap to visualize the survival rates for different combinations of passenger class, gender, and age.
+-            Create a clustered bar chart or heatmap to visualize the survival rates for different combinations of passenger class, gender, and age.
 2.	Survival Rates by Family Size
-•	Use a bar chart or pie chart to show the survival rates for passengers traveling alone versus with family.
+-           Use a bar chart or pie chart to show the survival rates for passengers traveling alone versus with family.
 3.	Survival Rates by Embarkation Port
-•	Represent the survival rates for each embarkation port using a bar chart or a map visualization.
+-           Represent the survival rates for each embarkation port using a bar chart or a map visualization.
 4.	Feature Importance Analysis
-•	Visualize the correlation coefficients between the survival status and the various passenger features using a correlation matrix or a bar chart
+-           Visualize the correlation coefficients between the survival status and the various passenger features using a correlation matrix or a bar chart
 
 
 ### 💡 Conclusion
@@ -66,11 +66,12 @@ This end-to-end SQL project using the Titanic dataset provides valuable insights
 -	Analyze complex datasets and extract meaningful insights
 -	Perform feature engineering and correlation analysis to identify the most important factors
 -	Present the findings in a clear and visually appealing manner
+
 The insights gained from this project can be used to better understand the historical events surrounding the Titanic disaster and potentially inform future disaster response strategies. This project showcases my proficiency in SQL, data analysis, and data visualization, which can be valuable for potential employers or clients.
 
 
 
-SQL CODE: [Link](TITANIC dataset analysis.sql)
+SQL CODE: [Link](https://github.com/dipshisingh31/Titanic_Dataset_Analysis/blob/0b77e128da523649e389398c026319c9dbe54282/TITANIC%20dataset%20analysis.sql)
 
 
 
