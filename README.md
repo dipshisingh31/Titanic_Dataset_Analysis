@@ -20,7 +20,7 @@ The Titanic dataset can be obtained from various sources, such as Kaggle or GitH
 
 
 Here is a quick snapshot of the data:
-![Data Screenshot](https://github.com/dipshisingh31/House_Sales_DeepDive/blob/main/House%20Data.JPG)
+![Data Screenshot](Titanic_Dataset_Sample.JPG)
 
 ## ✏️ Project Objectives
 
